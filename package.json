@@ -1,0 +1,22 @@
+{
+  "name": "learnhapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "h2o2": "^4.0.2",
+    "handlebars": "^4.0.5",
+    "hapi": "^11.1.2",
+    "inert": "^3.2.0",
+    "joi": "^7.0.0",
+    "path": "^0.12.7",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.0.1"
+  }
+}
